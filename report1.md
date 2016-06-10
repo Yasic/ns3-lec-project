@@ -59,3 +59,4 @@ Simulator::Destroy ();
 ```
 ./waf --run "scratch/hello-simulator --name=余烜 --stid=2013010917017"|grep '余烜'|wc -l
 ```
+![](http://diycode.b0.upaiyun.com/photo/2016/f8adc8e93a9720e955774952618b168a.png)
